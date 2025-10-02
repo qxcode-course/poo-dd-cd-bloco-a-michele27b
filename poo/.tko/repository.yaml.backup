@@ -11,11 +11,12 @@ expanded:
 - bloco_a-configuração-de-ambiente
 - campanha-principal
 - bloco_b-primeiras-classes
-tasks: {}
+tasks:
+  animal: '{rate:100, human:s, iagen:copilot_gpt, guide:s, alone:5, study:3}'
 flags:
-  quests: 0
-  tracks: 0
+  quests: 2
+  tracks: 2
   tasks: 0
   graph: 0
   xray: 0
-index: toalha
+index: animal
