@@ -159,3 +159,18 @@
 2025-10-02 20:56:22, MOVE, v:1, k:animal, mode:BACK
 2025-10-02 21:09:46, SELF, v:1, k:animal, rate:100, human:s, iagen:copilot_gpt, guide:s, alone:5, study:3
 2025-10-02 21:09:58, SELF, v:1, k:animal, rate:100, human:s, iagen:copilot_gpt, guide:s, alone:5, study:3
+2025-10-02 21:17:38, MOVE, v:1, k:carro, mode:DOWN
+2025-10-02 21:40:49, MOVE, v:1, k:carro, mode:PICK
+2025-10-02 21:40:50, EXEC, v:1, k:carro, mode:FULL, rate:0, size:22
+2025-10-02 21:53:04, EXEC, v:1, k:carro, mode:FULL, rate:0, size:46
+2025-10-02 21:53:07, EXEC, v:1, k:carro, mode:FULL, rate:0
+2025-10-02 21:53:36, EXEC, v:1, k:carro, mode:FULL, rate:0
+2025-10-02 21:53:37, EXEC, v:1, k:carro, mode:FULL, rate:0
+2025-10-02 21:54:34, EXEC, v:1, k:carro, mode:FULL, rate:0, size:46
+2025-10-02 22:00:23, EXEC, v:1, k:carro, mode:FULL, rate:0, size:63
+2025-10-02 22:00:25, EXEC, v:1, k:carro, mode:FULL, rate:0
+2025-10-02 22:05:01, EXEC, v:1, k:carro, mode:FULL, rate:0, size:92
+2025-10-02 22:05:07, EXEC, v:1, k:carro, mode:FULL, rate:0
+2025-10-02 22:06:03, EXEC, v:1, k:carro, mode:FULL, rate:0, size:92
+2025-10-02 22:06:03, EXEC, v:1, k:carro, mode:FULL, rate:0, size:92
+2025-10-02 22:06:04, EXEC, v:1, k:carro, mode:FULL, rate:0, size:92
