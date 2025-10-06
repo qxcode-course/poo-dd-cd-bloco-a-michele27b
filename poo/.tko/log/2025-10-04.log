@@ -1,0 +1,29 @@
+2025-10-04 21:21:35, MOVE, v:1, k:calculadora, mode:DOWN
+2025-10-04 21:23:20, SELF, v:1, k:enxugar, rate:100, human:s, iagen:s, guide:s, other:n, alone:6
+2025-10-04 21:23:29, SELF, v:1, k:enxugar, rate:100, human:s, iagen:s, guide:s, other:n, alone:6
+2025-10-04 21:23:45, SELF, v:1, k:animal, rate:100, human:s, iagen:copilot_gpt, guide:s, alone:5
+2025-10-04 21:23:56, SELF, v:1, k:enxugar, rate:100, human:s, iagen:s, guide:s, other:n, alone:6
+2025-10-04 21:53:28, MOVE, v:1, k:calculadora, mode:PICK
+2025-10-04 21:53:29, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:36
+2025-10-04 22:06:05, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:54
+2025-10-04 22:06:06, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:06:07, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:06:39, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:66
+2025-10-04 22:06:40, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:06:41, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:06:41, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:06:42, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:07:20, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:07:20, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:07:20, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:07:21, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:07:48, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:107
+2025-10-04 22:07:50, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:47, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:112
+2025-10-04 22:08:48, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:48, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:48, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:48, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:49, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:49, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-10-04 22:08:49, EXEC, v:1, k:calculadora, mode:FULL, rate:0

@@ -12,12 +12,14 @@ expanded:
 - campanha-principal
 - bloco_b-primeiras-classes
 tasks:
-  animal: '{rate:100, human:s, iagen:copilot_gpt, guide:s, alone:5, study:3}'
+  animal: '{rate:100, human:s, iagen:copilot_gpt, guide:s, alone:5}'
   carro: '{rate:100}'
+  calculadora: '{rate:100, human:s, alone:5}'
+  enxugar: '{rate:100, human:s, iagen:s, guide:s, other:n, alone:6}'
 flags:
   quests: 2
   tracks: 2
   tasks: 0
   graph: 0
   xray: 0
-index: enxugar
+index: toalha
